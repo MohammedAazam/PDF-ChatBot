@@ -62,17 +62,17 @@ Make sure your `.env` is configured (see below), then run:
 
 ```bash
 streamlit run app.py
-
+```
 
 ## 🔐 .env Configuration
 
 Create a `.env` file in the root directory:
 
+```bash
 GOOGLE_API_KEY=your-google-api-key-here
-
+```
 > ✅ To get your API key, enable the [Google Generative AI API](https://makersuite.google.com/app) and generate one in Google Cloud Console.
 
-```
 
 ## 📁 Project Structure
 
@@ -141,8 +141,7 @@ Question: {question}
 
 ## 🖼️ Screenshot
 
-![image](https://github.com/user-attachments/assets/b3c214f3-7279-45d4-b0ad-a587cde249ea)
-
+![image](https://github.com/user-attachments/assets/0b69fe1d-5502-412b-8681-8abbb8fb1670)
 
 ---
 
